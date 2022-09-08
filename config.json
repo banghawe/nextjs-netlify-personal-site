@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://banghawe.com",
+  "site_title": "Banghawe blog",
+  "site_description": "My blog about many things",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -11,9 +11,11 @@
     },
     {
       "keyword": "React"
-    }
+    },
+    "python",
+    "django"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "banghawe",
+  "github_account": "banghawe"
 }
